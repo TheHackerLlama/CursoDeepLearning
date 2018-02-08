@@ -17,3 +17,6 @@ En este post se explica cómo funciona Gradient Descent y sus diferentes variant
 En estos dos posts se revisa Backpropagation de una manera más amigable
 - https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d
 - https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+Gradient Descent para Document Recognition
+- http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
